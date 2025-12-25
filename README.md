@@ -1,5 +1,3 @@
-# python-game
-Python  Zero Library Based Game
 # Platform Game - Pygame Zero Project
 
 ## Quick Start
@@ -76,4 +74,4 @@ platformer_game/
 - **Enemy**: AI-controlled enemies with patrol behavior
 - **Game States**: menu, playing, win, lose
 
-Enjoy the game
+Enjoy the game!
